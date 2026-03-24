@@ -22,7 +22,7 @@ It helps in managing student records efficiently with CRUD operations.
    C:\xampp\htdocs\
 3. Start Apache and MySQL in XAMPP
 4. Open browser and go to:
-   http://localhost/student-management-system/login.php
+   https://github.com/nishantbhardwaj494/student-management-system.git
 
 ## 🗄️ Database
 - Import the SQL file in phpMyAdmin
